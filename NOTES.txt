@@ -27,8 +27,11 @@ j=> Funtions, modules, classes
 Advance: Decorators, Generators, Iterators, MetaProgramming
 
 
-====================NUMBER===================
-#
+
+ 
+====================QUESTIONS===================
+1 => what is difference between dic and tup?
+2 => difference between repr/str/print?
 
 
 

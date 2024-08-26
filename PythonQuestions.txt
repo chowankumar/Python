@@ -1,2 +1,0 @@
-1 => what is difference between dic and tup?
-2 => difference between repr/str/print?
